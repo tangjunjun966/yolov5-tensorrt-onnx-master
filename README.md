@@ -1,8 +1,8 @@
 
 
 
+![](imgs/yolo_cpu_v1与yolo_cpu测试对比.jpg)
 
-![](imgs/1689841247716.jpg)
 
 
 
