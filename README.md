@@ -18,6 +18,7 @@ yolo_cpp:主文件，最新优化部署文件，优化内存分配方式
 yolo_cpp_v1:第一个版本文件，未做内存优化
 yolov5-master:下载他人文件，yolov5官网转onnx出现问题时，使用此文件转换
 
+本代码详细细节我将记录CSDN的cuda教程专栏中，链接:http://t.csdn.cn/J4KZj
 
 # 测试结果对比
 ## cpu的2个版本对比
@@ -26,8 +27,7 @@ yolov5-master:下载他人文件，yolov5官网转onnx出现问题时，使用�
 ![](imgs/yolo_gpu与yolo_cpu测试对比.jpg)
 
 ### 对比可发现基于cuda编写速度提升约10倍！！
-有需要可邮箱联系:511026664@qq.com
-或点击链接:https://blog.csdn.net/weixin_38252409/category_12383040.html
+我将更新，预计2023年8月底完成，可在博客中第十三章中获得代码链接及相关内容具体解释。
 
 # 相关测试文件链接
 yolov5测试视频，测试结果，转换onnx文件等内容
