@@ -38,6 +38,12 @@ yolov5测试视频，测试结果，转换onnx文件等内容
 
 
 
+### 我已收到网友相关需求，此代码可自习琢磨研究，该代码是cuda教程部分代码，具体代码解读或系列理论内容在我链接中。基于创造不易，内容查看或小部分代码学习需少量补偿。望理解，也帮忙顺手点赞点赞
+## CSDN教程链接地址：http://t.csdn.cn/J4KZj
+## CUDA教程代码地址：https://github.com/tangjunjun966/cuda-tutorial-master
+
+
+
 
 
 
